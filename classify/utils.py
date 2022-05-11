@@ -8,7 +8,7 @@ from tqdm import tqdm
 import sampy
 
 def load_data(config):
-    data_path = os.path.join(config.data_dir, config.subj)
+    data_path = os.path.join(config.data_dir, config.subj + '.json')
     datas = sampy.LoadJson(data_path)[0]
     knowledegs = datas['knowledge1']
     questions = datas['question']

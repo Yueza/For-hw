@@ -21,6 +21,7 @@ if __name__ == '__main__':
         level=logging.INFO
     )
 
+    os.environ["CUDA_VISIBLE_DEVICES"] = "3"
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'run on {device}')
 
