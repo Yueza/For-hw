@@ -1,7 +1,0 @@
-03/24/2022 00:01:07 - INFO - __main__ -   Epoch: [1 / 10]  | Train Loss: 3.6066586646166714
-03/24/2022 00:01:12 - INFO - __main__ -   Epoch: [1 / 10] | Dev ACC: 0.9482758641242981
-03/24/2022 00:01:13 - INFO - __main__ -   Model saved in ./result/model/初中数学_32_epoch_1.pth @Epoch 1
-03/24/2022 00:01:30 - INFO - __main__ -   Epoch: [2 / 10]  | Train Loss: 3.4630917527458887
-03/24/2022 00:01:35 - INFO - __main__ -   Epoch: [2 / 10] | Dev ACC: 0.8611111044883728
-03/24/2022 00:01:53 - INFO - __main__ -   Epoch: [3 / 10]  | Train Loss: 3.313181754314538
-03/24/2022 00:01:57 - INFO - __main__ -   Epoch: [3 / 10] | Dev ACC: 0.7198275923728943
